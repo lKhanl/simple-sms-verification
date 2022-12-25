@@ -6,8 +6,11 @@ This project is a homework for the course "Mobile Programming 1" at university. 
 
 ## Screenshots
 
-<img src="screen_shots/1.png" alt="drawing" width="200"/>
-<img src="screen_shots/2.png" alt="drawing" width="200"/>
+<div style="display:flex;">
+  <img src="screen_shots/1.png" alt="drawing" width="200"/>
+  <img src="screen_shots/2.png" alt="drawing" width="200"/>
+</div>
+
 <img src="screen_shots/3.png" alt="drawing" width="200"/>
 <img src="screen_shots/4.png" alt="drawing" width="200"/>
 <img src="screen_shots/5.png" alt="drawing" width="200"/>
@@ -15,15 +18,14 @@ This project is a homework for the course "Mobile Programming 1" at university. 
 
 ## Installation
 
-  1. Clone the repository
-  2. Open the project in Visual Studio Code
-  3. Run the project
+1. Clone the repository
+2. Open the project in Visual Studio Code
+3. Run the project
 
 ## Built With
 
-  - [Flutter](https://flutter.dev/) - The framework used
-  - [Visual Studio Code](https://code.visualstudio.com) - The IDE used
-
+-   [Flutter](https://flutter.dev/) - The framework used
+-   [Visual Studio Code](https://code.visualstudio.com) - The IDE used
 
 ## License
 
