@@ -26,6 +26,3 @@ This project is a homework for the course "Mobile Programming 1" at university. 
 -   [Flutter](https://flutter.dev/) - The framework used
 -   [Visual Studio Code](https://code.visualstudio.com) - The IDE used
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
