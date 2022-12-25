@@ -9,12 +9,11 @@ This project is a homework for the course "Mobile Programming 1" at university. 
 <div style="display:flex;">
   <img src="screen_shots/1.png" alt="drawing" width="200"/>
   <img src="screen_shots/2.png" alt="drawing" width="200"/>
+  <img src="screen_shots/3.png" alt="drawing" width="200"/>
+  <img src="screen_shots/4.png" alt="drawing" width="200"/>
+  <img src="screen_shots/5.png" alt="drawing" width="200"/>
+  <img src="screen_shots/6.png" alt="drawing" width="200"/>
 </div>
-
-<img src="screen_shots/3.png" alt="drawing" width="200"/>
-<img src="screen_shots/4.png" alt="drawing" width="200"/>
-<img src="screen_shots/5.png" alt="drawing" width="200"/>
-<img src="screen_shots/6.png" alt="drawing" width="200"/>
 
 ## Installation
 
