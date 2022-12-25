@@ -6,17 +6,12 @@ This project is a homework for the course "Mobile Programming 1" at university. 
 
 ## Screenshots
 
-![Screenshot 1](screen_shots/1.png)
-
-![Screenshot 2](screen_shots/2.png)
-
-![Screenshot 3](screen_shots/3.png)
-
-![Screenshot 4](screen_shots/4.png)
-
-![Screenshot 5](screen_shots/5.png)
-
-![Screenshot 6](screen_shots/6.png)
+<img src="screen_shots/1.png" alt="drawing" width="200"/>
+<img src="screen_shots/2.png" alt="drawing" width="200"/>
+<img src="screen_shots/3.png" alt="drawing" width="200"/>
+<img src="screen_shots/4.png" alt="drawing" width="200"/>
+<img src="screen_shots/5.png" alt="drawing" width="200"/>
+<img src="screen_shots/6.png" alt="drawing" width="200"/>
 
 ## Installation
 
